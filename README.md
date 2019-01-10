@@ -1,6 +1,6 @@
 # Spring Boot Examples
 
-Spring Boot 使用的各种示例，以最简单、最实用为标准
+Spring Boot 使用的各种示例，以最简单、最实用为标准a
 
 [Spring Boot 中文索引](https://github.com/ityouknow/awesome-spring-boot) &nbsp;| &nbsp; [Spring Cloud学习示例代码](https://github.com/ityouknow/spring-cloud-examples) &nbsp;| &nbsp; [Spring Boot 精品课程](https://github.com/ityouknow/spring-boot-leaning) 
 
